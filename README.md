@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is the home page of Tharindu801 ! New.
+
+New Changes for new repository !.
+
+Added new line also. !.
