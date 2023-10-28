@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 This is the home page of Tharindu801 ! New.
 
-New Changes for new repository !.
+New and old Changes for new repository !.
 
 Added new line also. !.
