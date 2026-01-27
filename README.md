@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is the home page of Tharindu801 ! New.
+This is the home page of Tharindu801 !.
 
 New and old Changes for new repository  for TD!.
 
